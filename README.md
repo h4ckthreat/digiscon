@@ -3,7 +3,7 @@
 
 ## About
 
-Script conversor para tornar possivel a utilização do digispark em layout Portugues Brasileiro ( abnt2 ) através da conversão de scripts .duck em arquivos ino já em pt-BR, ao importado para o Arduino IDE o script só precisara ser carregado ao digispark, ele já estará com o layout pt-BR funcionando. 
+Script conversor para tornar possivel a utilização do digispark em layout Portugues Brasileiro ( abnt2 ) através da conversão de scripts .duck em arquivos ino já em pt-BR, ao importar para o Arduino IDE o script só precisara ser carregado ao digispark, ele já estará com o layout pt-BR funcionando. 
 
 ---
 
